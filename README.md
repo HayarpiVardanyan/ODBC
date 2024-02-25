@@ -4,7 +4,7 @@ This project demonstrates how to use ODBC (Open Database Connectivity) with C++ 
 ### INSTALLING AND CONFIGURING UBUNTU ODBC DRIVERS FOR POSTGRESQL DATABASE
 
 Link used:
- https://medium.com/@murat.bilal/installing-and-configuring-ubuntu-odbc-drivers-for-postgresql-database-c67500e87eadh 
+  https://medium.com/@murat.bilal/installing-and-configuring-ubuntu-odbc-drivers-for-postgresql-database-c67500e87ead
 
 The unixODBC driver manager reads information about drivers from an odbcinst.ini file and about data sources from an odbc.ini file. 
 
